@@ -1,3 +1,0 @@
-# juegos
-cosas raras
-
