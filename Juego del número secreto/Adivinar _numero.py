@@ -1,5 +1,6 @@
 #importar libreria
 import random
+import string
 #Generar numero secreto
 numero_secreto = random.randint(0,100)
 contador = 0
@@ -16,4 +17,4 @@ while True:
     else:
         print(f"¡Oleeeeeee! Adivinaste el numero secreto en {contador} intentos.")
         break
-        
+    
