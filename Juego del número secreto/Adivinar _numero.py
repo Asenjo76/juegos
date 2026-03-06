@@ -16,5 +16,5 @@ while True:
         print("Es menor")
     else:
         print(f"¡Oleeeeeee! Adivinaste el numero secreto en {contador} intentos.")
-        break
+        
     

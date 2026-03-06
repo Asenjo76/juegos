@@ -1,5 +1,5 @@
-numero = int(input("Introduce un número entero: "))
+numero = int(input("Introduce un número: "))
 if numero % 2 == 0:
-    print(f"El número {numero} es par.")
+    print(f"Este número {numero} es par.")
 else:
-    print(f"El número {numero} es impar.")
+    print(f"Este número {numero} es impar.")

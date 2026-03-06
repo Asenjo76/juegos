@@ -1,0 +1,27 @@
+{
+  "pregunta": "¿Es un animal?",
+  "si": {
+    "pregunta": "¿tiene trompa?",
+    "si": {
+      "adivinanza": "elefante"
+    },
+    "no": {
+      "adivinanza": "perro"
+    }
+  },
+  "no": {
+    "pregunta": "¿Es un vegetal?",
+    "si": {
+      "adivinanza": "lechuga"
+    },
+    "no": {
+      "pregunta": "¿Es un mineral?",
+      "si": {
+        "adivinanza": "pirita"
+      },
+      "no": {
+        "adivinanza": "piedra"
+      }
+    }
+  }
+}
